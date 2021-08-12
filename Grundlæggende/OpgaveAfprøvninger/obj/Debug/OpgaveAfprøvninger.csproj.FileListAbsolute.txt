@@ -1,0 +1,14 @@
+C:\ZBC Data-Kommunikation\Grundlæggende\OpgaveAfprøvninger\bin\Debug\OpgaveAfprøvninger.exe.config
+C:\ZBC Data-Kommunikation\Grundlæggende\OpgaveAfprøvninger\bin\Debug\OpgaveAfprøvninger.exe
+C:\ZBC Data-Kommunikation\Grundlæggende\OpgaveAfprøvninger\bin\Debug\OpgaveAfprøvninger.pdb
+C:\ZBC Data-Kommunikation\Grundlæggende\OpgaveAfprøvninger\obj\Debug\OpgaveAfprøvninger.csproj.CoreCompileInputs.cache
+C:\ZBC Data-Kommunikation\Grundlæggende\OpgaveAfprøvninger\obj\Debug\OpgaveAfprøvninger.exe
+C:\ZBC Data-Kommunikation\Grundlæggende\OpgaveAfprøvninger\obj\Debug\OpgaveAfprøvninger.pdb
+C:\ZBC Data-Kommunikation\Grundlæggende\OpgaveAfprøvninger\obj\Debug\OpgaveAfprøvninger.csproj.AssemblyReference.cache
+C:\ZBC Data-Kommunikation\Project_Collections\Grundlæggende\OpgaveAfprøvninger\bin\Debug\OpgaveAfprøvninger.exe.config
+C:\ZBC Data-Kommunikation\Project_Collections\Grundlæggende\OpgaveAfprøvninger\bin\Debug\OpgaveAfprøvninger.exe
+C:\ZBC Data-Kommunikation\Project_Collections\Grundlæggende\OpgaveAfprøvninger\bin\Debug\OpgaveAfprøvninger.pdb
+C:\ZBC Data-Kommunikation\Project_Collections\Grundlæggende\OpgaveAfprøvninger\obj\Debug\OpgaveAfprøvninger.csproj.AssemblyReference.cache
+C:\ZBC Data-Kommunikation\Project_Collections\Grundlæggende\OpgaveAfprøvninger\obj\Debug\OpgaveAfprøvninger.csproj.CoreCompileInputs.cache
+C:\ZBC Data-Kommunikation\Project_Collections\Grundlæggende\OpgaveAfprøvninger\obj\Debug\OpgaveAfprøvninger.exe
+C:\ZBC Data-Kommunikation\Project_Collections\Grundlæggende\OpgaveAfprøvninger\obj\Debug\OpgaveAfprøvninger.pdb
