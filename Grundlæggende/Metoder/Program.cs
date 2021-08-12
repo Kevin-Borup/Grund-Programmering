@@ -12,11 +12,9 @@ namespace Metoder
         {
             //Task1();
             //Task2();
-            Task3();
-            //Task4();
-            //Task5();
-            //Task6();
-            //Task7();
+            //Task3();
+            //Task4to6();
+            Task7();
             //Task8();
             //Task9();
             //Task10();
@@ -90,23 +88,118 @@ namespace Metoder
         }
         static void Task3()
         {
+            Console.Write("What is your name? ");
+            string name = Console.ReadLine();
+            Console.Write("What is your age? ");
+            int age = int.Parse(Console.ReadLine());
 
-        }
-        static void Task4()
-        {
+            Console.WriteLine(Response(name, age));
 
+            string Response(string alias, int years)
+            {
+                if (years < 3)
+                {
+                    return $"{alias}, you may wear diaper.";
+                }
+                else if (years < 15)
+                {
+                    return $"{alias}, you may not do anything.";
+                }
+                else if (years < 15)
+                {
+                    return $"{alias}, you may drink.";
+                }
+                else
+                {
+                    return $"{alias}, you may vote and drive cars.";
+                }
+            }
+        
         }
-        static void Task5()
+        static void Task4to6()
         {
+            Console.WriteLine("Welcome!");
+            Console.WriteLine("Write a number: ");
+            int input = int.Parse(Console.ReadLine());
+            UpCounter();
+            Console.Write(Environment.NewLine);
+            DownCounter();
+            Console.Write(Environment.NewLine);
+            Counter(input);
+            Console.Write(Environment.NewLine);
 
-        }
-        static void Task6()
-        {
+
+            void UpCounter()
+            {
+                for (int i = 1; i < 11; i++)
+                {
+                    Console.Write(i + " ");
+                }
+            }
+
+            void DownCounter()
+            {
+                for (int i = 10; i < 0; i--)
+                {
+                    Console.Write(i + " ");
+                }
+            }
+
+            void Counter(int num)
+            {
+                for (int i = 0; i < 33; i++)
+                {
+                    Console.Write(num + " ");
+                    num++;
+                }
+                Console.Write(Environment.NewLine);
+                for (int i = 0; i < 17; i++)
+                {
+                    num--;
+                    Console.Write(num + " ");
+                }
+            }
 
         }
         static void Task7()
         {
+            Console.WriteLine("Welcome!");
 
+            int[] line = NumArrayMaker(9);
+            Presenter(line);
+            NumIndexDoubler(ref line, 5);
+            Presenter(line);
+
+            int[] NumArrayMaker(int length)
+            {
+                int[] tempArray = new int[length];
+                for (int i = 0; i < length; i++)
+                {
+                    tempArray[i] = i + 1;
+                }
+                return tempArray;
+            }
+
+            void NumIndexDoubler(ref int[] numArray, int index)
+            {
+                for (int i = 0; i < numArray.Length; i++)
+                {
+                    if (i == index-1)
+                    {
+                        numArray[i] = numArray[i] * 2;
+                    }
+                }
+            }
+
+            void Presenter(int[] numArray)
+            {
+                foreach (int num in numArray)
+                {
+                    Console.Write(num + "");
+                }
+                Console.WriteLine(Environment.NewLine);
+
+            }
         }
         static void Task8()
         {
