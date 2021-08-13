@@ -683,9 +683,8 @@ namespace OpgaveAfprøvninger
             //Environment.Exit(0);
             */
 
-
+            /*
             //Opgave 5: Mozart
-
             int[][] passage = new int[32][];
             Random shuffler = new Random();
 
@@ -727,7 +726,7 @@ namespace OpgaveAfprøvninger
                 }
                 passage[i] = passage[i].OrderBy(x => shuffler.Next()).ToArray();
             }
-
+            /*
             string[] mozartPieces = new string[32];
             int mozartIndex = 0;
             for (int i = 0; i < passage.Length; i++)
@@ -753,7 +752,7 @@ namespace OpgaveAfprøvninger
                 player.Load();
                 player.PlaySync();
             }
-
+            */
             /*
             // Every audio randomized order Menuett -> Trioet
             string[] mozartPieces = new string[ranMinuet.Count() + ranTrio.Count()];
@@ -818,8 +817,8 @@ namespace OpgaveAfprøvninger
                     Console.Write(" " + passage[i][j] + " ");
                 }
                 Console.WriteLine("|");
-            }*/
-
+            }
+            */
 
         }
     }
