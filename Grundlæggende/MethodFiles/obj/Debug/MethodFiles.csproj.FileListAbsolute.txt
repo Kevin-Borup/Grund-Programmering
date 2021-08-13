@@ -1,0 +1,7 @@
+C:\ZBC Data-Kommunikation\Grund-Programmering\Grundlæggende\MethodFiles\bin\Debug\MethodFiles.exe.config
+C:\ZBC Data-Kommunikation\Grund-Programmering\Grundlæggende\MethodFiles\bin\Debug\MethodFiles.exe
+C:\ZBC Data-Kommunikation\Grund-Programmering\Grundlæggende\MethodFiles\bin\Debug\MethodFiles.pdb
+C:\ZBC Data-Kommunikation\Grund-Programmering\Grundlæggende\MethodFiles\obj\Debug\MethodFiles.csprojAssemblyReference.cache
+C:\ZBC Data-Kommunikation\Grund-Programmering\Grundlæggende\MethodFiles\obj\Debug\MethodFiles.csproj.CoreCompileInputs.cache
+C:\ZBC Data-Kommunikation\Grund-Programmering\Grundlæggende\MethodFiles\obj\Debug\MethodFiles.exe
+C:\ZBC Data-Kommunikation\Grund-Programmering\Grundlæggende\MethodFiles\obj\Debug\MethodFiles.pdb
